@@ -1,3 +1,14 @@
+# 내가 추가한 것들 : 이것은 안올라감
+MapperExam/.setting/
+MapperExam/target/
+MapperExam/src/test/
+MapperExam/.classpath
+MapperExam/.project
+
+.metadata/
+Servers/
+
+
 # Compiled class file
 *.class
 
